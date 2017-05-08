@@ -1,2 +1,2 @@
 # Pattern-Puzzle
-the test of Pattern-Puzzle by web
+the test of Pattern-Puzzle on web
